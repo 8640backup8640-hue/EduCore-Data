@@ -1,0 +1,37 @@
+{
+  "years": [
+    {
+      "id": "sem_3",
+      "name": "Third Semester",
+      "subjects": [
+        {
+          "id": "sub_history",
+          "name": "History of India",
+          "pdfs": [
+            {
+              "id": "pdf_1",
+              "title": "Later Mughal",
+              "size": "2.5 MB",
+              "date": "2026-08-11",
+              "pdfUrl": "https://raw.githubusercontent.com/8640backup8640-hue/EduCore-Data/main/1.Later%20Mughal.pdf"
+            },
+            {
+              "id": "pdf_2",
+              "title": "Rise of Regional Power",
+              "size": "3.0 MB",
+              "date": "2026-08-11",
+              "pdfUrl": "https://raw.githubusercontent.com/8640backup8640-hue/EduCore-Data/main/2.Rise%20of%20Regional%20Power.pdf"
+            },
+            {
+              "id": "pdf_3",
+              "title": "From Siraj to Pitts India Act",
+              "size": "4.2 MB",
+              "date": "2026-08-11",
+              "pdfUrl": "https://raw.githubusercontent.com/8640backup8640-hue/EduCore-Data/main/4.From%20Siraj%20to%20Pitts%20India%20act.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
